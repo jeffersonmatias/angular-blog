@@ -10,3 +10,6 @@
 a {
     text-decoration: none;
 }
+a:hover {
+    color: rgb(206, 206, 206);
+}

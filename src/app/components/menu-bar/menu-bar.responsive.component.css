@@ -1,0 +1,6 @@
+@media screen and (max-width:440px) {
+    .container__menu-bar>ul>li {
+        margin-left: 4px;
+        margin-right: 4px;
+    }
+}

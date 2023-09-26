@@ -11,6 +11,11 @@
     justify-content: center;
 }
 
+h2 {
+    text-align: center;
+    font-family: 'segoe UI';
+}
+
 .container__menu-title>hr {
     margin-top: 20px;
     margin-bottom: 5px;

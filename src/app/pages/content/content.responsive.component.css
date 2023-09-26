@@ -1,0 +1,21 @@
+@media screen and (max-width:690px) {
+    .content__cover>img {
+        width: 200px;
+        min-width: 200px;
+        height: 200px;
+    }
+
+    .content__title>h1 {
+        font-size: 20px;
+    }
+
+    .content__description>p,
+    h3 {
+        font-size: 13px;
+
+    }
+
+    .content__description>h3 {
+        text-align: center;
+    }
+}
