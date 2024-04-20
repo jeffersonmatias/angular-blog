@@ -1,27 +1,35 @@
-# AngularBlog
+<img src="https://i.imgur.com/HyD07zu.png"/>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# Golaço Blog
 
-## Development server
+O projeto é um blog Sobre Noticias Do Futebol Mundial criado com Angular baseado em layout da dribbble.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Voce pode acessar em: [Golaço Blog](https://angular-blog-nu-orpin.vercel.app/)
 
-## Code scaffolding
+## Tecnologias utilizadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto foi Criado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.1.2.
 
-## Build
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Créditos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Este projeto foi desenvolvido/modificado por:
 
-## Running end-to-end tests
+- [Jefferson Carvalho](https://www.linkedin.com/in/jefferson-carvalho-dev/) - Desenvolvedor Principal
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### O projeto foi desenvolvido durante o Bootcamp de Desenvolvimento Web:
 
-## Further help
+Santander Bootcamp 2023 - Fullstack Java+Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### plataforma:
+
+Digital Innovation One
+
+### sob a orientação de:
+
+- [Felipe Silva Aguiar](https://github.com/felipeAguiarCode) - Professor
